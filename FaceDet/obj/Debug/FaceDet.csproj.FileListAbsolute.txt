@@ -1,0 +1,12 @@
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\Debug\FaceDet.csprojResolveAssemblyReference.cache
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\Debug\FaceDet.Form1.resources
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\Debug\FaceDet.Properties.Resources.resources
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\Debug\FaceDet.csproj.GenerateResource.Cache
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\Debug\FaceDet.exe.config
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\Debug\FaceDet.exe
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\Debug\FaceDet.pdb
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\Debug\Emgu.CV.xml
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\Debug\Emgu.CV.UI.xml
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\Debug\Emgu.Util.xml
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\Debug\FaceDet.exe
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\Debug\FaceDet.pdb

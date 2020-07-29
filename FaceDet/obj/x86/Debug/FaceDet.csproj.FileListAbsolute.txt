@@ -1,0 +1,17 @@
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\FaceDet.exe.config
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\FaceDet.exe
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\FaceDet.pdb
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.CV.dll
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.CV.GPU.dll
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.CV.ML.dll
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.CV.UI.dll
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.Util.dll
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.CV.xml
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.CV.UI.xml
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\bin\x86\Debug\Emgu.Util.xml
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\x86\Debug\FaceDet.Form1.resources
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\x86\Debug\FaceDet.Properties.Resources.resources
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\x86\Debug\FaceDet.csproj.GenerateResource.Cache
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\x86\Debug\FaceDet.exe
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\x86\Debug\FaceDet.pdb
+c:\users\544d\documents\visual studio 2015\Projects\FaceDet\FaceDet\obj\x86\Debug\FaceDet.csprojResolveAssemblyReference.cache
