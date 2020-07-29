@@ -12,3 +12,5 @@
 
 ***NOTE That this was just a prototype , It was actually made To save Faces Automatically .***
 
+[![Watch the video](https://img.youtube.com/vi/YLSAnziI990/hqdefault.jpg)](https://youtu.be/YLSAnziI990)
+
